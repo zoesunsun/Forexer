@@ -6,5 +6,5 @@ This is a part of our Data Focused Python group project.
 ## Other Team Members
 - Xuelin Zhang
 - Yiting Jiang
-- Zehua Sun
+- Hao Chen
 - Hanxu Hu
